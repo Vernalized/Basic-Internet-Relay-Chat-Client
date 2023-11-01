@@ -41,10 +41,10 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 • **Tkinter (included in standard Python distributions)**
 
 
-•　**Requests (for IP information retrieval)**
+• **Requests (for IP information retrieval)**
 
 
-•　**Pytz (for time zone handling)**
+• **Pytz (for time zone handling)**
 
 
 # **License:**

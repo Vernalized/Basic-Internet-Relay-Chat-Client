@@ -11,13 +11,13 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 • Easy-to-understand codebase, ideal for learning and modification.
 
 
-• Built with Python and the Tkinter library for the graphical user interface.
+• Built with **Python** and the **Tkinter library** for the graphical user interface.
 
 
-• Basic client-server communication for sending and receiving messages.
+• **Basic client-server communication** for sending and receiving messages.
 
 
-• Includes a built-in debug console for real-time debugging and experimentation.
+• Includes a **basic built-in debug console for real-time debugging and experimentation**. Can also be modified within itself.
 
 
 # **Getting Started:**
@@ -25,7 +25,7 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 ‣ Clone this repository to your local machine.
 
 
-‣ Run the client.py file to launch the chat client.
+‣ Run the **client.py** file to launch the chat client.
 
 
 ‣ Customize the code to suit your requirements, add features, or experiment with the codebase.
@@ -35,16 +35,16 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 
 # **Dependencies:**
 
-• Python 3.x
+• **Python 3.x**
 
 
-• Tkinter (included in standard Python distributions)
+• **Tkinter (included in standard Python distributions)**
 
 
-•Requests (for IP information retrieval)
+•　**Requests (for IP information retrieval)**
 
 
-•Pytz (for time zone handling)
+•　**Pytz (for time zone handling)**
 
 
 # **License:**

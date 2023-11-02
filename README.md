@@ -21,14 +21,16 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 
 
 # **What is Included:**
-‣ Main Client & Import socket
+‣ **Main Client & Import socket**
+• **client.py** → **Main Client**
+• **import socket.py** → **Import socket**
 
 # **Getting Started:**
 
 ‣ Clone this repository to your local machine.
 
 
-‣ Run the **Import_Socket.py**. If the console displays the message **'Server is now actively listening on port 6667'** the server is up and running!
+‣ Run the **import socket.py**. If the console displays the message **'Server is now actively listening on port 6667'** the server is up and running!
 
 
 ‣ Run the **client.py** file to launch the client. If all steps done successfully, congratulations! You are good to go!

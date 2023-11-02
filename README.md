@@ -21,8 +21,12 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 
 
 # **What is Included:**
-‣ **Main Client & Import socket**
+‣ **Main Client & Import socket**:
+
+
 • **client.py** → **Main Client**
+
+
 • **import socket.py** → **Import socket**
 
 # **Getting Started:**

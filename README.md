@@ -4,7 +4,7 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
  It's perfect for those who wish to learn or experiment with building such an application. 
  
  
- **Please note that this project is a work in progress, so expect some inconsistencies and potential issues.**
+  **Please note that this project is a work in progress, so expect some inconsistencies and potential issues.**
 
 # **Features:**
 
@@ -20,22 +20,28 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
 • Includes a **basic built-in debug console for real-time debugging and experimentation**. Can also be modified within itself.
 
 
+# **What is Included:**
+‣ Main Client & Import socket
+
 # **Getting Started:**
 
 ‣ Clone this repository to your local machine.
 
 
-‣ Run the **client.py** file to launch the chat client.
+‣ Run the **Import_Socket.py**. If the console displays the message **'Server is now actively listening on port 6667'** the server is up and running!
 
 
-‣ Customize the code to suit your requirements, add features, or experiment with the codebase.
+‣ Run the **client.py** file to launch the client. If all steps done successfully, congratulations! You are good to go!
+
+
+‣ Customize the code to suit your requirements, add features, or experiment with the codebase. The choices are yours!
 
 
 ‣ Feel free to report issues or contribute improvements.
 
 # **Dependencies:**
 
-• **Python 3.x**
+• **Python 3.X**
 
 
 • **Tkinter (included in standard Python distributions)**

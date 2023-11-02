@@ -4,7 +4,7 @@ This is a lightweight and beginner-friendly chat relay client designed for easy 
  It's perfect for those who wish to learn or experiment with building such an application. 
  
  
-  **Please note that this project is a work in progress, so expect some inconsistencies and potential issues.**
+  **Please note that I am new to programming, especially with sharing my projects online, especially within Python. this project is most likely stll a work in progress, unless I have already moved on to other larger projects, I will try to keep this up-to-date! So expect some inconsistencies and potential issues.**
 
 # **Features:**
 
